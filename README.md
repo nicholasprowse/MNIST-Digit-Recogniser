@@ -16,6 +16,6 @@ Use translational and rotation data augmentation to increase accuracy and make t
 
 Add dropout layers
 
-### Usage of the GUI guessing hand drawn digits
+### Demo of the GUI guessing hand drawn digits
 
-Add video of usage
+![Digit recognizer demo](demo.gif)
